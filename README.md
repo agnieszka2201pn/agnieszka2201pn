@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agnieszka.
 - 👀 I’m interested in Python.
-- 🌱 I’m currently learning data analysis in Python.
-- 💞️ I’m looking to collaborate on web applications or data analysis projects.
+- 🌱 I work as a system admin
+- 💞️ I'm interested in ML
 - 📫 How to reach me:
 agnieszka.blicharska@gmail.com  
 https://www.linkedin.com/in/agnieszka-blicharska/
