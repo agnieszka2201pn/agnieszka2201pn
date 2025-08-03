@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agnieszka.
-- 👀 I’m interested in Python.
-- 🌱 I work as a system admin
-- 💞️ I'm interested in ML
+- 👀 I’m interested in working with data.
+- 🌱 I work as a system admin.
+- 💞️ I'm interested in ML, DL, AI and how to use it to solve everyday business problems.
 - 📫 How to reach me:
 agnieszka.blicharska@gmail.com  
 https://www.linkedin.com/in/agnieszka-blicharska/
